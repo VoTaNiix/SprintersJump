@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\GIT\SprintersJump\SprintersJump\main.cpp(50,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GIT\SprintersJump\SprintersJump\main.cpp(50,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 79 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SprintersJump.vcxproj -> C:\GIT\SprintersJump\Release\SprintersJump.exe

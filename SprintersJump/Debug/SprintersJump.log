@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\GIT\SprintersJump\SprintersJump\main.cpp(42,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\GIT\SprintersJump\SprintersJump\main.cpp(45,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\GIT\SprintersJump\SprintersJump\main.cpp(50,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\GIT\SprintersJump\SprintersJump\main.cpp(53,30): warning C4305: '=': truncation from 'double' to 'float'
+  SprintersJump.vcxproj -> C:\GIT\SprintersJump\Debug\SprintersJump.exe
